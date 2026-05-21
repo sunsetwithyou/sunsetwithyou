@@ -4,20 +4,27 @@
 
 ### 👩‍💻 founder | tester | creator
 
+
+---
+
+
 </div>
 
 Hey there! Welcome to my personal corner of the web. I'm Paint, who’s absolutely hooked on building websites, testing systems, and bringing creative ideas to life. Super excited to share my world with you! 🎨✨
 
-### 🛠️ My Tech Stack
-HTML5 · CSS3 · JavaScript · Node.js · Python · C++ · Express · Postman · Visual Studio 2022 · Git/GitHub · Burp Suite · Vercel · Canva · Figma 
+
+### 💻 Tech Stack
+
+* 🚀 *Languages:* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+* ⚙️ *Frameworks:* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+* 🕵️‍♀️ *Testing & Security:* ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+* 🛠️ *Tools & Platforms:* ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
 
 ---
 
-### 📬 Navigation & Contacts
-clik me!
 
 ### 📬 Navigation & Contacts
-ลองคลิกเลือกแท็บเพื่อวาร์ปไปยังหน้าโปรไฟล์ต่างๆ ได้เลยนะ!
 
 <br />
 
